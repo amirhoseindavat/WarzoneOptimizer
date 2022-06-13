@@ -27,7 +27,7 @@ WarzoneOptimizer is a `Free` and `Open-Source` software that help Call of Duty W
 <!--### Prerequisites-->
 ## Installation
 
-* Download latest version from [Here](https://cdn.codemage.ir/Projects/WarzoneOptimizer/Latest). 
+* Download latest version from [Here](https://cdn.codemage.ir/Projects/WarzoneOptimizer/Download/Latest). 
 
 <!-- ROADMAP 
 ## Roadmap
