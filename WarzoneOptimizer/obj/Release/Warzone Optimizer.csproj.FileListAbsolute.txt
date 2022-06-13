@@ -1,0 +1,78 @@
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Warzone Optimizer.exe.config
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Warzone Optimizer.exe
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Warzone Optimizer.pdb
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.Licensing.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone_Optimizer.Form1.resources
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone_Optimizer.Properties.Resources.resources
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone Optimizer.csproj.GenerateResource.Cache
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone Optimizer.exe.licenses
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone Optimizer.exe
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone Optimizer.pdb
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\obj\Release\Warzone_Optimizer.about.resources
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\WindowsDisplayAPI.dll
+C:\Users\Amirhosein\Desktop\Warzone Optimizer\Warzone Optimizer\bin\Release\WindowsDisplayAPI.xml
